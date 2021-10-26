@@ -1,0 +1,5 @@
+colorama==0.4.3
+InstagramAPI==1.0.2
+Pillow==8.4.0
+praw==7.4.0
+requests==2.24.0
